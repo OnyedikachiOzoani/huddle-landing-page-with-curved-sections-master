@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
--   Design preview - ![desktop design preview from Frontend Mentor](./design/desktop-preview.jpg)
+-   Design preview - ![desktop design preview from Frontend Mentor](design/desktop-preview.jpg)
 -   Mobile screenshot preview - [screenshot of my mobile design](https://i.imgur.com/D5gZ1Wg.png)
 -   Desktop screenshot preview - [screenshot of my desktop design](https://i.imgur.com/IeYAla4.png)
 
